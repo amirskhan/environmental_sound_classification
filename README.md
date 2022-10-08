@@ -10,3 +10,8 @@ The whole project is distributed into 4 juyter notebooks, they are Data Pre-proc
 2. Model Training.ipynb
 3. Evluation.ipynb
 4. Inference.ipynb
+
+## Dataset
+Because of the huge size of the dataset it is not possible to include it in this repository. It can be downloaded from the link given below.
+
+https://urbansounddataset.weebly.com/urbansound8k.html
